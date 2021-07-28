@@ -11,7 +11,8 @@ public class gittest {
         System.out.println("hi,github,this is hot fix");
         System.out.println("hi,github,this not hot fix");
         System.out.println("hi,github,this is hot fix2");
-        System.out.println("push test");
+        System.out.println("push test2");
+        System.out.println("push test3");
 
     }
 }
