@@ -13,6 +13,7 @@ public class gittest {
         System.out.println("hi,github,this is hot fix2");
         System.out.println("push test2");
         System.out.println("push test3");
+        System.out.println("pull test3");
 
     }
 }
