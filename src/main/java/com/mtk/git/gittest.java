@@ -9,6 +9,7 @@ public class gittest {
         System.out.println("hi.,git");
 
         System.out.println("hi,github,this is hot fix");
+        System.out.println("hi,github,this not hot fix");
 
     }
 }
